@@ -12,16 +12,12 @@ Web developer. I'm always my updating to improve my skills 📚
 
 <br>
   
-<div style="display: inline_block">   
-  <a href="https://www.linkedin.com/in/jean-leal-31684217b" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href = "mailto:jeancarloleall@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
+<div style="display: inline_block">
+  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jean-leal-31684217b)](www.linkedin.com/in/jean-leal-31684217b)
+[![Linkedin Badge](https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=Gmail&logoColor=white&link=www.linkedin.com/in/jean-leal-31684217b)](www.linkedin.com/in/jean-leal-31684217b)
 </div>
 
-<br>
 
-![](https://komarev.com/ghpvc/?username=Jeanll7&color=blueviolet&style=flat-square)
+
 
