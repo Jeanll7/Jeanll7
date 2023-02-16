@@ -1,14 +1,14 @@
 ## Hi, I'm Jean
+
 Web developer. I'm always my updating to improve my skills 📚
 
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=Jeanll7&theme=midnight-purple)
 
-
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,react,github)](https://skillicons.dev)
-  
-## Contato
+
+## contact
 
 <br>
   
@@ -17,7 +17,3 @@ Web developer. I'm always my updating to improve my skills 📚
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jean-leal-31684217b)](www.linkedin.com/in/jean-leal-31684217b)
 [![Linkedin Badge](https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=Gmail&logoColor=white&link=www.linkedin.com/in/jean-leal-31684217b)](www.linkedin.com/in/jean-leal-31684217b)
 </div>
-
-
-
-
