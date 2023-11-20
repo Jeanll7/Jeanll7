@@ -6,7 +6,7 @@ Web developer. I'm always my updating to improve my skills 📚
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=Jeanll7&theme=midnight-purple)
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,react,github)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,github)](https://skillicons.dev)
 
 ## contact
 
