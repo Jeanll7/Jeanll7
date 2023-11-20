@@ -14,6 +14,6 @@ Web developer. I'm always my updating to improve my skills 📚
   
 <div style="display: inline_block">
   
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jean-leal-31684217b)](https://www.linkedin.com/in/jeanleall7/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jean-leal-31684217b)](https://www.linkedin.com/in/jean-leal/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=Gmail&logoColor=white&link=www.linkedin.com/in/jean-leal-31684217b)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 </div>
